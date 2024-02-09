@@ -14,4 +14,4 @@
 
 from __future__ import absolute_import
 
-from sslpsk3.sslpsk3 import wrap_socket
+from sslpsk3.sslpsk3 import wrap_socket, SSLPSKContext
